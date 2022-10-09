@@ -1,2 +1,3 @@
 # Single_cell_
-Single cell RNA-seq transcriptomic analyses of human pancreatic islets
+This repository contains my project upon the course "Bioinformatics and Computational Methods for Personalized Medicine" in my MSc. 
+A report is included.
